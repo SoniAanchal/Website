@@ -617,6 +617,12 @@ input[type=text], select, textarea {
 	}
 	/* End Hero */
 
+	.flag{
+		display: hidden;
+	}
+	Skills .Skills{
+		grid-template-columns:none;
+	}
 	/* about Section */
 	#about .about-bottom .about-item {
 		flex-basis: 25%;
